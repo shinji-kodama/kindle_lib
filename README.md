@@ -5,7 +5,7 @@ https://github.com/bulldra/amazon-lib-list
 
 変更点は以下
 
-- ASINのみtxtに書き出し -> title, authorを追加し、csv形式に変更
+- ASINのみtxtに書き出し -> title, authorを追加し、csv形式に変更 （購入日とか既読フラグとかもmain.py弄れば割と簡単につけられます）
 - コンテナ操作をrun.sh内に追記し、クローンしたフォルダで下のコマンドを走らせるだけで完結させるように変更
 ```run.sh
 % sh run.sh
