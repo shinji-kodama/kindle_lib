@@ -1,3 +1,13 @@
+こちらのgithubをほぼそのまま使用しています
+https://github.com/bulldra/amazon-lib-list
+
+変更点は以下
+
+- ASINのみtxtに書き出し -> title, authorを追加し、csv形式に変更
+- コンテナ操作をシェルスクリプト内に追記
+
+--------以下、元リポジトリ
+
 # amazon-lib-list
 
 kindle for mac が生成するKindleSyncMetadataCache.xmlをパースしてASINリストを作成する
