@@ -6,7 +6,10 @@ https://github.com/bulldra/amazon-lib-list
 変更点は以下
 
 - ASINのみtxtに書き出し -> title, authorを追加し、csv形式に変更
-- コンテナ操作をシェルスクリプト内に追記
+- コンテナ操作をrun.sh内に追記し、下の操作だけで完結させるように変更
+```run.sh
+sh run.sh
+```
 
 ------------------------以下、元リポジトリのREADME----------------------
 
