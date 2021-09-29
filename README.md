@@ -6,7 +6,7 @@ https://github.com/bulldra/amazon-lib-list
 - ASINのみtxtに書き出し -> title, authorを追加し、csv形式に変更
 - コンテナ操作をシェルスクリプト内に追記
 
---------以下、元リポジトリ
+------------------------以下、元リポジトリ----------------------
 
 # amazon-lib-list
 
